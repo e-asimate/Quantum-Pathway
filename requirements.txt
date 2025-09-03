@@ -1,0 +1,11 @@
+numpy>=1.26
+scipy>=1.11
+MDAnalysis>=2.7
+matplotlib>=3.8
+seaborn>=0.13
+qiskit==1.2.2
+qiskit-nature==0.7.2
+pyscf==2.5.0
+ase>=3.23.0
+ipywidgets>=8.1
+numba>=0.59
